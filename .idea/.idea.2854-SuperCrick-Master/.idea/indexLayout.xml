@@ -30,6 +30,7 @@
       <Path>.git</Path>
       <Path>.github</Path>
       <Path>.idea</Path>
+      <Path>Keystore</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>

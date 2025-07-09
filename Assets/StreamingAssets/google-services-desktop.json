@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759442371694",
+    "project_id": "supercrick-master",
+    "storage_bucket": "supercrick-master.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759442371694:android:4595bf9a8073063186e27f",
+        "android_client_info": {
+          "package_name": "com.ai.face.pl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHXb6zc3KIJ-kaJCZuF43J9X86fmYaYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

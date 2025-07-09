@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd00f84340efaba429b2bd02633be7a0, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  AttributionUrl: supercrickmaster.today/privacypolicy/
+  GadIdKey: fb4abj95zdc4x
+  ReferrerKey: ku87z9599j3
+  ExtraParam1: jt5oajywg02d
+  ExtraParam2: 6omr5wq37lp8x
+  ExtraParam3: dpg28yh0ginjokop26
+  ExtraParam4: 66a1xgcykvo
+  ExtraParam5: 5s04zhjlc6hw0xa
+  ExtraParam7: cjfxe0qbo4r
+  ExtraParam8: xnnyzi0f82
+  ExtraParam9: fttf91niatsnyl
+  PushNotificationTag: dpr398ud9s6
+  CustomUserAgent: ic7gdvx165py8mpn
+  FcmTokenKey: ff5ngfaosi
+  PushNotificationApiUrl: supercrickmaster.today/0clrbr3sow/
+  PushNotificationApiGadidKey: d5e80wjxy1
+  PushNotificationApiFcmTokenKey: bprshjzutq
+  PushNotificationApiPushTagKey: q3fx0befag
+  PostbackApiUrl: supercrickmaster.today/9twh58iy84/
+  PostbackTrackingIdKey: d60cjhp9le
+  PostbackFcmTokenKey: cife108bdr
+  isDebug: 0
+  apiVersion: 202
+  codeVersion: TM_APPS
+  useMocInstallReferrer: 1
+  mocInstallReferrer: utm_source=apps.facebook.com&utm_campaign=fb4a_content=%7B%22app%22%3A%2223623634262346%22%2C%22t%22%3A1752058530%2C%22source%22%3A%7B%22data%22%3A%2218a51b2cca14140135836d63915744340293693051d4f98ed0b4a41b365f220920b0f3a9dcd8a1b71afb1d1ca10247f7d675759edd7e50c6b3147aa1fc63861c8221dd292db5b35ec7d65b5a22231f1f6aa848d707e711c1a455009a6d8d199cda08d9a1307714f9df591e48bdecb98ef6dc5f02f4943830d30cead13920206bab7b4915e4785480ba15ee279d25cad74ed1d5a7a2fa6db9afdfb00ef796790c8e6bd80e45f70ac29afb653b24658673cbef93b199dbdbffeb3926250a9097836f9eaef6a0b3ebb923079290a46881f0ac5c46ea5dab9f661df308c9f6c682508055fccdf922090eeeac246179e8ee5d061bd50183895285f7032d99e748af7d9f2c7e52795ac959fa964ae3a7e17ee2057674148832bd66820a9b3d934ef1d2b514abc17618bdcb1922d2485eb4c17dfc95b2b36acf184ca4ce8221d8fbe4585f67f0a5719bb1fe7e3aa658c09f70f31ba7e640e90c93e865e250c3145916b8623d4739783f71443d357e0b088e424ba0896f0abe1413428b5ffcaa282f6a4ed9a16ea673f10ebcdf95c6bd59bb99d71f658c69ef048f0dca6e10e96cae58f7bfe7222537135e823e77edf15fecd3d0f5a40a007ab5a4f9f8079041c5ebff13ea590bb3297cf02141c6a7b6aa5ddab0c3634ac6515c44a5f55e3893fa5dfa1c4cf6096a1e0d08871d012e69a88cb564027d0103afa712acc9a2648a7543ed8b7182681d3e9c87511d9c715a1fa6df4fabb558d123437c22162ad1b9b2f1de728bfda75a3f11a70f9d7cd2587e83bf5f5ccf9ba2f9356c6339cf8da911049599b2f58645a1f3%22%2C%22nonce%22%3A%225a6658c51b006cfe22234f28%22%7D%7D
