@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e338ca0b37f8472985ebfc12de732401, type: 3}
+  m_Name: BatConfig
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 21300000, guid: 1bb501cfc851042409dec150711c6c64, type: 3}
+  - {fileID: 21300000, guid: 320bfa0f3ad92994280b3f72dee4f110, type: 3}
+  - {fileID: 21300000, guid: f9d34bb265f23364a87f5b1b6c770e11, type: 3}
+  View: {fileID: 8402123418617802496, guid: 631d982f8211acc4bbe4dbd655eca59f, type: 3}
